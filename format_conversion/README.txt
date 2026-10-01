@@ -1,1 +1,1 @@
-Format conversion (cif to pdb,...)
+Format conversion (cif to pdb, traj to pdb, ...)
